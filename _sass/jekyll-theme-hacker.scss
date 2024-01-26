@@ -17,8 +17,7 @@ $container-max-width: 1000px;
 body {
   margin: 0;
   padding: 0;
-  background: /*$body-background*/ ,  url("../images/elenasavanna.gif"), linear-gradient(to right, rgb(30
-  75 115 / 100%), rgb(255 255 255 / 0%)), url("../images/grid_tra.png") 0 0;
+  background: $body-background url("../images/elenasavanna.gif") 0 0;
   color: $body-foreground;
   font-size: 16px;
   line-height: 1.5;
