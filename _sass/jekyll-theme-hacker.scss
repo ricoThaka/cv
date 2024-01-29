@@ -13,7 +13,7 @@ $container-max-width: 1000px;
       @content;
   }
 }
-
+/*
 body {
   margin: 0;
   padding: 0;
@@ -22,8 +22,25 @@ body {
   font-size: 16px;
   line-height: 1.5;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+} */
+body {
+  color: white;
+  background-color: #010a00;
+  /* background-image: url(""); */
+  font-size: 1rem;
+  background-image: url("../images/elenasavanna.gif"); 
+  background: url("") no-repeat 50% fixed / cover;
+ /* background: url("https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/CHALK_LOVER_AWR.jpg") 0 / cover fixed; /* centered full background code */
+  line-height: 1.5;
+  background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  font-family: "Comfortaa", -apple-system, Ubuntu, "Ariel Black", Verdana;
 }
-
 /* General & 'Reset' Stuff */
 
 .container {
