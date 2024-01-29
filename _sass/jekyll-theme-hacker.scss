@@ -53,6 +53,50 @@ section {
   display: block;
   margin: 0 0 20px 0;
 }
+/* Headings & SucH */
+
+.neon {
+  color: #fff;
+  text-shadow:
+    0 0 5px #fff,
+    0 0 10px #fff,
+    0 0 20px #fff,
+    0 0 40px #00FF83,
+    0 0 80px #00FF83,
+    0 0 90px #00FF83,
+    0 0 100px #00FF83,
+    0 0 150px #00FF83;
+}
+
+
+.GLOWh1{
+  font-weight: 900;
+  font-family: 'Fredoka One', cursive;
+  padding: 0px;
+  margin: 0px;
+  text-align: left;
+  text-transform: uppercase;
+  }
+
+h1.GLOWh1{
+font-weight: 900;
+font-family: 'Fredoka One', cursive;
+padding: 0px;
+margin: 0px;
+text-align: left;
+text-transform: uppercase;
+}
+h2.GLOW1{
+font-weight: 900;
+font-family: 'Fredoka One', cursive;
+font-size:90px;
+padding: 0px;
+margin: 0px;
+text-align: left;
+text-transform: uppercase;
+}
+
+
 
 h1, h2, h3, h4, h5, h6 {
   margin: 0 0 20px;
