@@ -82,10 +82,11 @@ LocationGreater Atlanta Area
 
 ## CORPORATiON = "Atlanticus"
 ### ROLE = "Linux Engineer"
-Dates EmployedJan 2018 – Nov 2018
-Employment Duration11 mos
-LocationGreater Atlanta Area
-- Support day-to-day admin and engineering operations, Splunk first point of contact, Ansible Architect, After Hours Support
+Dates Employed Jan 2018 – Nov 2018
+Employment Duration 11 mos
+Location Greater Atlanta Area
+
+ Support day-to-day admin and engineering operations, Splunk first point of contact, Ansible Architect, After Hours Support
 
 Achievements:
 ● Personally Built-out Ansible infrastructure and defined playbooks to automate AWS deployments
@@ -97,7 +98,8 @@ Achievements:
 ● Used Jenkins to deploy and troubleshoot software releases
 ● Participated in On-Call rotation and managed notifications via PagerDuty and Nagios email alerts
 
-- Technical Environment: Red Hat Enterprise Linux 6/7, Jenkins, Puppet,AWS, Configuration Management, PCI finance
+### Technical Environment:
+ Red Hat Enterprise Linux 6/7, Jenkins, Puppet,AWS, Configuration Management, PCI finance
 
 
 ## Linux Engineer
@@ -138,21 +140,29 @@ Vmware Administration and patch management
 Technical Environment: Red Hat Enterprise Linux 6/7, Gentoo Linux, Sendmail, Qmail, Postgres, MySQL, Configuration Management, Cloud deployments, for 1,000,000+ users and 600+ server
 
 
-## [Linux Administrator 5](#my-header) <a href="about.html">About<a>
+## [Linux Administrator 5](#my-header) 
 ## Company NameNASA Jet Propulsion Laboratory 
 ## Dates EmployedJul 2015 – ~ #kidnpped
 ## Employment Duration4 mos
 ## Location Pasadena California
-- Administered, documented and debugged NIS+ infrastructure including NFS mounted home directories, JPL custom accounts and start scripts, Tomcat, Linux and SAN administration for Mars mission
+Administered, documented and debugged NIS+ infrastructure including NFS mounted home directories, JPL custom accounts and start scripts, Tomcat, Linux and SAN administration for Mars mission
 
-Achievements:
-- Used Nagios to track hardware health for Mission to Mars
-- Provided support and administration for SAS and Fibre attached storage devices to maintain SAN and backup infrastructure,.
-- Compiled binaries using GCC to support in house applications.
-- Created shell scripts via BASH/Expect to automate root password changes
-- Provided desktop support for Sun Solaris workstations including processor swaps, ZFS administration, multi-frame buffer configuration and networking
-- Assist in building Mars Reconnaissance Orbiters master Vmware Linux template
-- Technical Environment: Unix/Linux/Mainframe , SaaS, NetApp NFS, Netbackup, vSpear 5.1, Salt, Puppet, PERL, Globally distributed datacenters
+### Achievements:
+
+Used Nagios to track hardware health for Mission to Mars
+
+Provided support and administration for SAS and Fibre attached storage devices to maintain SAN and backup infrastructure,.
+
+Compiled binaries using GCC to support in house applications.
+
+Created shell scripts via BASH/Expect to automate root password changes
+
+Provided desktop support for Sun Solaris workstations including processor swaps, ZFS administration, multi-frame buffer configuration and networking
+
+Assist in building Mars Reconnaissance Orbiters master Vmware Linux template
+
+
+Technical Environment: Unix/Linux/Mainframe , SaaS, NetApp NFS, Netbackup, vSpear 5.1, Salt, Puppet, PERL, Globally distributed datacenters
 
 
 
