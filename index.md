@@ -8,19 +8,7 @@
 
 <hr>
 
-<div class="appgallery">
-  <h1>#Job2Applyfor</h1>
 
-  <div class="gallery-wrap">
-    <div class="item item-1"></div>
-    <div class="item item-2"></div>
-    <div class="item item-3"></div>
-    <div class="item item-4"></div>
-    <div class="item item-5"></div>
-  </div>
- </div>
-
-<hr>
 
 <!--
 <picture>
@@ -62,9 +50,7 @@ LiTERACY =  [
 [ "SPANiSH_BEGiNNER", "SOMALi_BEGiNNER", "OROMO_BEGiNNER", "AMHARiC_BEGINNER"  ]
 ] ##THATS_HOW_i_KEEP_UP_WiTH_MY_FAMiLY_FRiENDS_NEiGHBORS_and_COLLEAGES!!!
 {% endhighlight %}
-### ###
-### ###
-### ###
+
 # ##EXPERiANCE##
 ## Linux System Engineer
 ### Company NameIonic Security Full-time
@@ -415,3 +401,16 @@ A footnote can also have multiple lines[^2].
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions. 
 
+<div class="appgallery">
+  <h1>#Job2Applyfor</h1>
+
+  <div class="gallery-wrap">
+    <div class="item item-1"></div>
+    <div class="item item-2"></div>
+    <div class="item item-3"></div>
+    <div class="item item-4"></div>
+    <div class="item item-5"></div>
+  </div>
+ </div>
+
+<hr>
