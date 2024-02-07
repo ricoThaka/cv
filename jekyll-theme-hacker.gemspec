@@ -1,10 +1,10 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |s|
-  s.name          = "Thaka_Rashards ResumE"
+  s.name          = "jekyll-theme-hacker"
   s.version       = "0.2.0"
   s.license       = "CC0-1.0"
-  s.authors       = ["Rashard_Thaka", "KashDoll_SARTU."]
+  s.authors       = ["Rashard_Thaka", "KashDoll_SARTU github i will ."]
   s.email         = ["opensource+jekyll-theme-hacker@github.com"]
   s.homepage      = "https://ricothaka.github.io/cv/"
   s.summary       = "#LosAngelesCounty Platform Developer"
