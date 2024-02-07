@@ -149,19 +149,19 @@ Technical Environment: Unix/Linux/Mainframe , SaaS, NetApp NFS, Netbackup, vSpea
 ## Dates EmployedNov 2012 – May 2014
 ## Employment Duration1 yr 7 mos
 ## LocationGreater Atlanta Area
-- Engineered and documented new processes to improve workflow. Provide root cause analysis during and after outages. Administer vSphere, Red Hat Linux and Oracle Solaris servers..
+ Engineered and documented new processes to improve workflow. Provide root cause analysis during and after outages. Administer vSphere, Red Hat Linux and Oracle Solaris servers..
 
 ## Achievements:
-- Used Big brother and and EMC Smarts EMS systems to monitor environment
-- Created various BASH scripts to automate authentication and administrative related tasks.
-- Remotely built a clustered centralized authentication system using Red Hat Enterprise Linux interface for BIND, Kerberos, and Ldap for London, UK datacenters leveraging existing DNS
-- Provisioned disk space using Veritas VxVM and Sun ZFS from NetApp SAN shares.
-- - Provisioned disk space using Veritas VxVM and Sun ZFS from NetApp SAN shares.
-- Managed patching via Red Hat Linux Satellite Server, to maintain PCI compliance
-- Used networking and system tools such as top, ps, sar, nmap, tcpdump and NetScout as well as shell scripts and cron to troubleshoot and diagnose and resolve ambiguous performance issues.
-- Provide technical support for vSphere 3.5,4.1,5 and 5.1
+ Used Big brother and and EMC Smarts EMS systems to monitor environment
+ Created various BASH scripts to automate authentication and administrative related tasks.
+ Remotely built a clustered centralized authentication system using Red Hat Enterprise Linux interface for BIND, Kerberos, and Ldap for London, UK datacenters leveraging existing DNS
+ Provisioned disk space using Veritas VxVM and Sun ZFS from NetApp SAN shares.
+ Provisioned disk space using Veritas VxVM and Sun ZFS from NetApp SAN shares.
+ Managed patching via Red Hat Linux Satellite Server, to maintain PCI compliance
+ Used networking and system tools such as top, ps, sar, nmap, tcpdump and NetScout as well as shell scripts and cron to troubleshoot and diagnose and resolve ambiguous performance issues.
+ Provide technical support for vSphere 3.5,4.1,5 and 5.1
 
-- Technical Environment: Unix/Linux/Mainframe , SaaS, NetApp NFS, Netbackup, Oracle 11g, Solaris LDOM, vSpear 5.1, Globally distributed datacenters, IBM Blade, 24/7, 2000 servers, ITSM/ITIL, PCI
+ Technical Environment: Unix/Linux/Mainframe , SaaS, NetApp NFS, Netbackup, Oracle 11g, Solaris LDOM, vSpear 5.1, Globally distributed datacenters, IBM Blade, 24/7, 2000 servers, ITSM/ITIL, PCI
 
 
 ## System Support Engineer 2
