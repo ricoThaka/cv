@@ -15,33 +15,12 @@ This is a comment. Comments are not displayed in the browser-->
 This is Rashard's Resume
 ## My_preferred_name_is: Thaka!
 
-            <div class="face face1">
-                <div class="storycontent">
+<div class="face face1">
+    <div class="storycontent">
                         <div class="bookCover">
   <img style="float:right; width:100%; height:100%; " src="https://upload.wikimedia.org/wikipedia/commons/0/03/Emoji_u1f4af.svg">
 
-<div>
-<div class="storyBox">
-        <div class="card">
-            <div class="face face1">
-                <div class="storycontent">
-                        <div class="bookCover">
-  <img style="float:right; width:100%; height:100%; " src="https://upload.wikimedia.org/wikipedia/commons/0/03/Emoji_u1f4af.svg">
 
-</div>
-                </div>
-            </div>
-            <div class="face face2">
-                <div class="storycontent">
-                           <p>Aesop's Fables is a collection of tales by the Greek storyteller Aesop. Most of the tales included here were translated and edited by Reverend George Fyler Townsend (1814-1900) in England and published under the title, Aesop's Fables. <audio controls="" style="width:99%;">
-            <source src="https://etc.usf.edu/lit2go/audio/mp3/aesops-fables-001--the-ant-and-the-grasshopper.366.mp3" type="audio/mpeg">
-            <source src="https://etc.usf.edu/lit2go/audio/ogg/aesops-fables-001--the-ant-and-the-grasshopper.366.ogg" type="audio/ogg">
-            The embedded audio player requires a modern internet browser. You should visit <a href="https://browsehappy.com/">Browse Happy</a> and update your internet browser today!
-          </audio></p>
-        <a href="https://etc.usf.edu/lit2go/35/aesops-fables/" target="_blank" rel="noopener noreferrer" >Read More##LiT_To_Go##</a>
-                </div>
-            </div>
-</div>
 ![MY_SKILLS](https://raw.githubusercontent.com/ThakaRashard/RESUME/main/a6cd13981b4abe4fe14107f07a3945b1.jpg)
 ()
 
