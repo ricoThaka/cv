@@ -15,8 +15,6 @@ This is a comment. Comments are not displayed in the browser-->
 This is Rashard's Resume
 ## My_preferred_name_is: Thaka!
 
-<div class="storyBox">
-        <div class="card">
             <div class="face face1">
                 <div class="storycontent">
                         <div class="bookCover">
