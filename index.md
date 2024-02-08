@@ -20,6 +20,14 @@ This is Rashard's Resume
                         <div class="bookCover">
   <img style="float:right; width:100%; height:100%; " src="https://upload.wikimedia.org/wikipedia/commons/0/03/Emoji_u1f4af.svg">
 
+<div>
+<div class="storyBox">
+        <div class="card">
+            <div class="face face1">
+                <div class="storycontent">
+                        <div class="bookCover">
+  <img style="float:right; width:100%; height:100%; " src="https://upload.wikimedia.org/wikipedia/commons/0/03/Emoji_u1f4af.svg">
+
 </div>
                 </div>
             </div>
@@ -33,7 +41,7 @@ This is Rashard's Resume
         <a href="https://etc.usf.edu/lit2go/35/aesops-fables/" target="_blank" rel="noopener noreferrer" >Read More##LiT_To_Go##</a>
                 </div>
             </div>
-
+</div>
 ![MY_SKILLS](https://raw.githubusercontent.com/ThakaRashard/RESUME/main/a6cd13981b4abe4fe14107f07a3945b1.jpg)
 ()
 
