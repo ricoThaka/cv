@@ -20,7 +20,6 @@ This is Rashard's Resume
 
 
 ![MY_SKILLS](https://raw.githubusercontent.com/ThakaRashard/RESUME/main/a6cd13981b4abe4fe14107f07a3945b1.jpg)
-()
 
 # ##MY_PROFiLE = "LiNUX_ENGiNEER##DEVOPS_SPECiALiST"
 After 20 years in Information Technology, I have developed several practical skills with useful technologies, both OpenSource and Proprietary. The tasks, people, and places that I've worked included assignments in building, supporting, migrating, and developing web SaaS solutions that run on *NIX platform both cloud (AWS) and on-site to ensure business continuity. 
