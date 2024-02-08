@@ -251,6 +251,13 @@ Saved school $7000 by building and implementing a LAN powered by Red Hat Linux f
 
 [![Gem Version](https://badge.fury.io/rb/jekyll-theme-hacker.svg)](https://badge.fury.io/rb/jekyll-theme-hacker)
 
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="poYZXad" data-user="ricoThaka" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/ricoThaka/pen/poYZXad">
+  MUSiCBLOGLAYOUT</a> by ricoThaka (<a href="https://codepen.io/ricoThaka">@ricoThaka</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script> 
+
 
 ---
 layout: default
