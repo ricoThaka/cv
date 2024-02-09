@@ -15,11 +15,19 @@ This is a comment. Comments are not displayed in the browser-->
 This is Rashard's Resume
 ## My_preferred_name_is: Thaka!
 
+<div style="width:640px;height:480px;max-width:100%">
+        <div id="game"></div>
+      </div>
+<script type="text/javascript">
+    EJS_player = '#game';
+    EJS_gameUrl = 'https://archive.org/download/Sega-32x-Romset-us/Primal%20Rage%20%28USA%2C%20Europe%29.7z'; // Url to Game rom
+    EJS_core = 'sega32x';
+</script>
+<script src="https://www.emulatorjs.com/loader.js"></script> 
 
 
 
-
-#WorkHistory!
+# WorkHistory!
 ![MY_SKILLS](https://raw.githubusercontent.com/ThakaRashard/RESUME/main/a6cd13981b4abe4fe14107f07a3945b1.jpg)
 
 # ##MY_PROFiLE = "LiNUX_ENGiNEER##DEVOPS_SPECiALiST"
