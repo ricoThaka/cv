@@ -427,20 +427,6 @@ end
 
 ### And a nested list:
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
 ### Small image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
@@ -482,20 +468,6 @@ A footnote can also have multiple lines[^2].
 [^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
   This is a second line.
 
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
-
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions. 
 
 <div class="appgallery">
   <h1>#Job2Applyfor</h1>
