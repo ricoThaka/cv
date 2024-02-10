@@ -20,7 +20,7 @@ This is Rashard's Resume
       </div>
 <script type="text/javascript">
     EJS_player = '#game';
-    EJS_gameUrl = 'https://archive.org/download/Sega-32x-Romset-us/Primal%20Rage%20%28USA%2C%20Europe%29.7z'; // Url to Game rom
+    EJS_gameUrl = 'https://github.com/ricoThaka/cv/raw/master/assets/Primal%20Rage%20(USA,%20Europe).7z'; // Url to Game rom
     EJS_core = 'sega32x';
 </script>
 <script src="https://www.emulatorjs.com/loader.js"></script> 
