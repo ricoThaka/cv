@@ -9,22 +9,14 @@
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 This is a comment. Comments are not displayed in the browser-->
-
-
+# Game of the day
+ill make a nice collection like [Internet Arcade](https://archive.org/details/internetarcadeturbo) 
+<iframe src="https://archive.org/embed/arcade_xmcota" width="100%" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/arcade_nwarr" width="100%" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/grimmsfairytales0000unse_y5s0" width="100%" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 # ##RESUME##
 This is Rashard's Resume
 ## My_preferred_name_is: Thaka!
-
-<div style="width:640px;height:480px;max-width:100%">
-        <div id="game"></div>
-      </div>
-<script type="text/javascript">
-    EJS_player = '#game';
-    EJS_gameUrl = 'https://github.com/ricoThaka/cv/raw/master/assets/Primal%20Rage%20(USA,%20Europe).7z'; // Url to Game rom
-    EJS_core = 'sega32x';
-</script>
-<script src="https://www.emulatorjs.com/loader.js"></script> 
-
 
 
 # WorkHistory!
@@ -456,6 +448,18 @@ A footnote can also have multiple lines[^2].
 [^1]: My reference.
 [^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
   This is a second line.
+
+<div style="width:640px;height:480px;max-width:100%">
+        <div id="game"></div>
+      </div>
+<script type="text/javascript">
+    EJS_player = '#game';
+    EJS_gameUrl = 'https://github.com/ricoThaka/cv/raw/master/assets/Primal%20Rage%20(USA,%20Europe).7z'; // Url to Game rom
+    EJS_core = 'sega32x';
+</script>
+<script src="https://www.emulatorjs.com/loader.js"></script> 
+
+
 
 
 <div class="appgallery">
