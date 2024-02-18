@@ -9,16 +9,14 @@
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 This is a comment. Comments are not displayed in the browser-->
-# Game of the day
-ill make a nice collection like [Internet Arcade](https://archive.org/details/internetarcadeturbo) 
-<iframe src="https://archive.org/embed/arcade_xmcota" width="100%" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-<iframe src="https://archive.org/embed/arcade_nwarr" width="100%" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-<iframe src="https://archive.org/embed/grimmsfairytales0000unse_y5s0" width="100%" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 # ##RESUME##
 This is Rashard's Resume
 ## My_preferred_name_is: Thaka!
 
+# Current Status
 
+While coronavirus quarantine shut down Georgia's government a sex party started among millenials. There was a populaton within the cult known as Jehovahs witnesses that wated to leave thier spouses they committed to in the org. I am a fatehr of one child i know for sure! And her mother wanted in on the sex party and abandoned me leaving me with the child. She is now 10years old and has been spotted in #SouthernCalifornia her name is coral. The Sexparty people systematically fiscally diabled me and i eventually lost my daughter, i dont know where she is. A artist from my old world in georgia "Glorilla" twitter feed showed her holding two guns, a pistl and an assault rifle. While i am in need im mostly sufering from exclusion because i lost my family. There were a couple women who tried to step in but they work for playboy magazine and got publically humiliated for wanting to start a family with an abandoned man. I have no income. I have been robbed #ransomware i am not mentally disabled. I can do pickup work for cash or join a team for a misson that is complimentary to the United States Space Program. I am on the Mars Mission. A unix administrator. If your family is kidnapped and there are no acces to communications resorces Social Engineering makes it nearly impossible to communicae to meet ones needs. There are rumors of sexual scandal at some of my prior employers that effect my ability to interact with the world to get my needs met. I was diagenosed with Bipolar and Schizophrenia but no one will talk to me abt how my wife's lover used radio for electronic harasment and she was two timing me with a leathal criminal in our area! I am innocent, honest and hardworking I have no way to contact people except through real life meetups coordinated by NasaJPL in Pasadena #Seeking_Paid_Employment 
 # WorkHistory!
 ![MY_SKILLS](https://raw.githubusercontent.com/ThakaRashard/RESUME/main/a6cd13981b4abe4fe14107f07a3945b1.jpg)
 
@@ -321,7 +319,11 @@ shes kidnapped, im conservative
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
-
+# Game of the day
+ill make a nice collection like [Internet Arcade](https://archive.org/details/internetarcadeturbo) 
+<iframe src="https://archive.org/embed/arcade_xmcota" width="100%" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/arcade_nwarr" width="100%" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/grimmsfairytales0000unse_y5s0" width="100%" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <img style="float:right; width:100%; height:100%; " src="https://upload.wikimedia.org/wikipedia/commons/0/03/Emoji_u1f4af.svg">
 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml) 
