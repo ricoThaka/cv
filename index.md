@@ -331,6 +331,29 @@ ill make a nice collection like [Internet Arcade](https://archive.org/details/in
 
 [![Gem Version](https://badge.fury.io/rb/jekyll-theme-hacker.svg)](https://badge.fury.io/rb/jekyll-theme-hacker)
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/2560px-Gnu-bash-logo.svg.png" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Former_Ubuntu_logo_%282%29.svg/2560px-Former_Ubuntu_logo_%282%29.svg.png" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo-ubuntu_no%28r%29-black_orange-hex.svg/2560px-Logo-ubuntu_no%28r%29-black_orange-hex.svg.png" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Former_Ubuntu_logo.svg/2048px-Former_Ubuntu_logo.svg.png" />
+  <img src="https://jadelinux.net/images/fedoracoreone/1.png" />
+  <img src="https://jadelinux.net/images/fedoracoreone/2.png" />
+  <img src="https://jadelinux.net/images/fedoracoreone/3.png" />
+  <img src="https://jadelinux.net/images/fedoracoreone/4.png" />
+  <img src="https://jadelinux.net/images/fedoracoreone/10.png" />
+  <img src="https://jadelinux.net/images/fedoracoreone/11.png" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/2048px-Fedora_logo.svg.png" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Centos-logo-light.svg" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Gigabyte_Technology_logo_20080107.svg/2560px-Gigabyte_Technology_logo_20080107.svg.png" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Storage_Technology_Corporation_logo.svg" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Dell_EMC_logo.svg/2560px-Dell_EMC_logo.svg.png" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/3PAR_logo.svg" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Jet_Propulsion_Laboratory_logo.svg/2560px-Jet_Propulsion_Laboratory_logo.svg.png" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Jet_Propulsion_Laboratory_logo.svg" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/NASA-SpitzerTelescope-Logo.svg/2560px-NASA-SpitzerTelescope-Logo.svg.png" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Mars_Helicopter_JPL_insignia.svg/2560px-Mars_Helicopter_JPL_insignia.svg.png" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Sun-Logo.svg/2560px-Sun-Logo.svg.png" />
+  <object type="application/pdf" data="https://patentimages.storage.googleapis.com/1d/4e/4a/ac8914e765d645/EP3172319B1.pdf" width="250" height="200"></object>
 ---
 layout: default
 ---
