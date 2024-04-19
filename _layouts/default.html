@@ -13,6 +13,7 @@
   <body>
     
     <header style="color:white;" class="neon">
+      {% include links.html %}
       <div class="container">
         <a id="a-title" href="{{ '/' | relative_url }}">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
@@ -31,9 +32,10 @@
 
     <div class="container">
       <section id="main_content">
-        {% include links.html %}
+        
         {{ content }}
       </section>
+      {% include footer.html %}
     </div>
   </body>
 </html>
