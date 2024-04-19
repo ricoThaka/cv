@@ -11,7 +11,7 @@
   </head>
 
   <body>
-
+    
     <header style="color:white;" class="neon">
       <div class="container">
         <a id="a-title" href="{{ '/' | relative_url }}">
@@ -31,6 +31,7 @@
 
     <div class="container">
       <section id="main_content">
+        {% include links.html %}
         {{ content }}
       </section>
     </div>
