@@ -1,47 +1,54 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    {% include head-custom.html %}
+<html lang="en">
 
-{% seo %}
-  </head>
+<head>
+  <meta charset='utf-8'>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  {% include head-custom.html %}
 
-  <body>
-    
-    <header style="color:white;" class="neon">
+  {% seo %}
+</head>
+
+
+<body>
+  <div id="wrapper">
+  <div id="MAiN">
+    <div id="navcontainer">
+      <div class="logo"><a href="https://github.com/ricoThaka">./HoleToAnotherUniverse</a></div>
+    <ul id="navlist">
       
-      <div class="container">
-      <div >{% include links.html %}</div>
-        <a id="a-title" href="{{ '/' | relative_url }}">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        </a>
-        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-
-        <section id="downloads">
-          {% if site.show_downloads %}
-            <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
-            <a href="{{ site.github.tar_url }}" class="btn">Download as .tar.gz</a>
-          {% endif %}
-          <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
-        </section>
-      </div>
-    </header>
-
-    <div class="container">
-      <section id="main_content">
-        
-        {{ content }}
-      </section>
-         
-
-      <div  id="footer"> {% include footer.html %} </div> 
-
-
+    <li id="active"><a href="#" id="current">HomE</a></li>
+    <li><a href="https://ricothaka.github.io/blog/">BLoG</a></li>
+    <li><a href="https://ricothaka.github.io/marsblog.html">MarsNotes</a></li>
+    <li><a href="https://ricothaka.github.io/cv">ResumE</a></li>
+    <li><a href="https://ricothaka.github.io/Contact.html">SocialS</a></li>
+      
+    </ul>
+      
     </div>
-    
-  </body>
+
+    {{ content }}
+
+    <div id="footer">
+      <div class="logo"><a href="https://ricothaka.github.io/htau.html">./HoleToAnotherUniverse</a></div>  
+      <div class="css3badge"><a href="https://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
+            alt="Valid CSS!" />
+    </a>
+        
+      </div>
+       <div class="css3badge">   <a href="https://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="https://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" />
+    </a>  
+         </div>
+    </div>
+  </div>
+  </div>
+</body>
+
 </html>
