@@ -82,7 +82,7 @@ background-position: top right;
 /* General & 'Reset' Stuff */
 
 .container {
-  width: 90%;
+  width: 80%;
   max-width: $container-max-width;
   margin: 0 auto;
 }
@@ -277,7 +277,7 @@ color: #fff;
 #heading {
 
   flex-wrap: wrap;
-    width:100%;
+  
   text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
     0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
    position:fixed;
@@ -287,8 +287,12 @@ grid-template-rows: auto auto auto;
   color:white;
   padding:5px;
   position:fixed;
-  
+  width:100%;
+width:50vw;
 }
+
+
+
 #footer {
 
   flex-wrap: nowrap;
@@ -301,6 +305,7 @@ grid-template-rows: auto auto auto;
   padding:5px;
   position:fixed;
   width:100%;
+width:50vw;
   text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
     0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
   }
