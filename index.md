@@ -238,7 +238,8 @@ Saved school $7000 by building and implementing a LAN powered by Red Hat Linux f
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml) 
 
 [![Gem Version](https://badge.fury.io/rb/jekyll-theme-hacker.svg)](https://badge.fury.io/rb/jekyll-theme-hacker)
-
+<embed src="https://ricothaka.github.io/compiling.html" type="text/html" />
+<embed src="https://ricothaka.github.io/webpagewebpage.html" type="text/html" />
 # WebDesign
 <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="rNRrEpK" data-user="ricoThaka" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/ricoThaka/pen/rNRrEpK">
