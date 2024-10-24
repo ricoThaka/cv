@@ -36,6 +36,33 @@ LiTERACY =  [
 {% endhighlight %}
 
 # ##EXPERiANCE##
+
+
+## [UNiX Administrator 5](#my-header) 
+## Company NameNASA Jet Propulsion Laboratory 
+## Dates EmployedJul 2015 – Present
+## Employment Duration4 mos
+## Location Pasadena California
+Administered, documented and debugged NIS+ infrastructure including NFS mounted home directories, JPL custom accounts and start scripts, Tomcat, Linux and SAN administration for Mars mission
+
+### Achievements:
+
+Used Nagios to track hardware health for Mission to Mars
+
+Provided support and administration for SAS and Fibre attached storage devices to maintain SAN and backup infrastructure,.
+
+Compiled binaries using GCC to support in house applications.
+
+Created shell scripts via BASH/Expect to automate root password changes
+
+Provided desktop support for Sun Solaris workstations including processor swaps, ZFS administration, multi-frame buffer configuration and networking
+
+Assist in building Mars Reconnaissance Orbiters master Vmware Linux template
+
+
+Technical Environment: Unix/Linux/Mainframe , SaaS, NetApp NFS, Netbackup, vSpear 5.1, Salt, Puppet, PERL, Globally distributed datacenters
+
+
 ## Linux System Engineer
 ### Company NameIonic Security Full-time
 Dates EmployedDec 2018 – Apr 2019
@@ -108,31 +135,6 @@ Build and deploy nodes for 200 node sendmail relay cluster using in-house config
 Vmware Administration and patch management
 
 Technical Environment: Red Hat Enterprise Linux 6/7, Gentoo Linux, Sendmail, Qmail, Postgres, MySQL, Configuration Management, Cloud deployments, for 1,000,000+ users and 600+ server
-
-
-## [Linux Administrator 5](#my-header) 
-## Company NameNASA Jet Propulsion Laboratory 
-## Dates EmployedJul 2015 – ~ #kidnpped
-## Employment Duration4 mos
-## Location Pasadena California
-Administered, documented and debugged NIS+ infrastructure including NFS mounted home directories, JPL custom accounts and start scripts, Tomcat, Linux and SAN administration for Mars mission
-
-### Achievements:
-
-Used Nagios to track hardware health for Mission to Mars
-
-Provided support and administration for SAS and Fibre attached storage devices to maintain SAN and backup infrastructure,.
-
-Compiled binaries using GCC to support in house applications.
-
-Created shell scripts via BASH/Expect to automate root password changes
-
-Provided desktop support for Sun Solaris workstations including processor swaps, ZFS administration, multi-frame buffer configuration and networking
-
-Assist in building Mars Reconnaissance Orbiters master Vmware Linux template
-
-
-Technical Environment: Unix/Linux/Mainframe , SaaS, NetApp NFS, Netbackup, vSpear 5.1, Salt, Puppet, PERL, Globally distributed datacenters
 
 
 
@@ -240,80 +242,7 @@ Saved school $7000 by building and implementing a LAN powered by Red Hat Linux f
 [![Gem Version](https://badge.fury.io/rb/jekyll-theme-hacker.svg)](https://badge.fury.io/rb/jekyll-theme-hacker)
 <embed src="https://ricothaka.github.io/compiling.html" type="text/html" />
 <embed src="https://ricothaka.github.io/webpagewebpage.html" type="text/html" />
-# WebDesign
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="rNRrEpK" data-user="ricoThaka" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/ricoThaka/pen/rNRrEpK">
-  PLAYLiST_ON_LOViNG_WHiLE_PHYSiCALLY_ALONE</a> by ricoThaka (<a href="https://codepen.io/ricoThaka">@ricoThaka</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="poYZXad" data-user="ricoThaka" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/ricoThaka/pen/poYZXad">
-  MUSiCBLOGLAYOUT</a> by ricoThaka (<a href="https://codepen.io/ricoThaka">@ricoThaka</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script> 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="result" data-slug-hash="rNRrEGv" data-user="ricoThaka" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/ricoThaka/pen/rNRrEGv">
-  PHOTOGRAPHERS2RESEARCH</a> by ricoThaka (<a href="https://codepen.io/ricoThaka">@ricoThaka</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="result" data-slug-hash="rNRrEyd" data-user="ricoThaka" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/ricoThaka/pen/rNRrEyd">
-  BLOG_LAYOUT##FROSTED_GLASS##THANKS_LEA!!!</a> by ricoThaka (<a href="https://codepen.io/ricoThaka">@ricoThaka</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
-
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="result" data-slug-hash="NWJBZdR" data-user="ricoThaka" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/ricoThaka/pen/NWJBZdR">
-  SELASSiE_HOUSE_ViDEO_PLAYER</a> by ricoThaka (<a href="https://codepen.io/ricoThaka">@ricoThaka</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
-Be sure to make it fullscreen! watch itbounce idk if its built into HTML5 or i made a lucky mistake but im working on repeating it - Thaka 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="result" data-slug-hash="LYaBKWq" data-user="ricoThaka" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/ricoThaka/pen/LYaBKWq">
-  ##4PANEL_SPREAD_SCREEN_STRETCH##PROD</a> by ricoThaka (<a href="https://codepen.io/ricoThaka">@ricoThaka</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
-
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="result" data-slug-hash="poYZXpd" data-user="ricoThaka" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/ricoThaka/pen/poYZXpd">
-  moonshineMakeeba</a> by ricoThaka (<a href="https://codepen.io/ricoThaka">@ricoThaka</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
-
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="result" data-slug-hash="XWGBLYP" data-user="ricoThaka" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/ricoThaka/pen/XWGBLYP">
-  Expanding Gallery View ( jus' flex it )##HTML_PORT##</a> by ricoThaka (<a href="https://codepen.io/ricoThaka">@ricoThaka</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script> 
-shes kidnapped, im conservative 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="result" data-slug-hash="oNVMrqr" data-user="ricoThaka" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/ricoThaka/pen/oNVMrqr">
-  NOODLEiNCiDENT CENTER_LAYOUT</a> by ricoThaka (<a href="https://codepen.io/ricoThaka">@ricoThaka</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
-
-## CssTypography
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="result" data-slug-hash="JjzBQrw" data-user="ricoThaka" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/ricoThaka/pen/JjzBQrw">
-  CSS3 inset text-shadow</a> by ricoThaka (<a href="https://codepen.io/ricoThaka">@ricoThaka</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
-# Game of the day
-ill make a nice collection like [Internet Arcade](https://archive.org/details/internetarcadeturbo) 
-<iframe src="https://archive.org/embed/arcade_xmcota" width="100%" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-<iframe src="https://archive.org/embed/arcade_nwarr" width="100%" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-<iframe src="https://archive.org/embed/grimmsfairytales0000unse_y5s0" width="100%" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <img style="float:right; width:100%; height:100%; " src="https://upload.wikimedia.org/wikipedia/commons/0/03/Emoji_u1f4af.svg">
 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml) 
